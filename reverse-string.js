@@ -1,7 +1,7 @@
 //  Find the reverse of the string
 const str = "Hello, world!";
 
-// Solution: Reverse the string
+//  Reverse the string
 function reverseString(str) {
   let reversed = "";
 

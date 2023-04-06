@@ -2,7 +2,7 @@
 
 const n = 20;
 
-// Solution: Find prime numbers from 1 to n
+//  Find prime numbers from 1 to n
 function findPrimes(n) {
   const primes = [];
 

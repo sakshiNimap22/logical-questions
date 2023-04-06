@@ -2,7 +2,7 @@
 
 const arr = [5, 10, 8, 12, 7, 3, 1];
 
-// Solution: Find the second largest number without sorting
+//  Find the second largest number without sorting
 function findSecondLargest(arr) {
   let largest = arr[0];
   let secondLargest = arr[0];
