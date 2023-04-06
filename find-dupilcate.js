@@ -26,7 +26,6 @@ function findDuplicates1(arr) {
   return duplicates;
 }
 
-// Call the function and print the output
 console.log("Duplicates using solution 1: ", findDuplicates1(arr));
 
 
