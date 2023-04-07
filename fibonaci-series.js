@@ -12,3 +12,5 @@ function fibonacci(n) {
   for (let i = 0; i < limit; i++) {
     console.log(fibonacci(i));
   }
+
+  
